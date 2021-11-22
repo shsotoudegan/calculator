@@ -16,7 +16,7 @@ To use this calculator, use this statement structure:
 python3 cli_calculator.py [command] [number 1] [number 2]
 ```
 
-Full cammand: 
+Full cammands: 
 ```
 add: a, A, add, +, Add, -a, -A
 minus: mn, MN, Mn, minus, -, MINUS, -mn, -Mn, -MN
