@@ -2,7 +2,7 @@
 
 this is a simple python3 project. In this project, we get 3 arguments from CLI, use sys biultin pakage. 
 
-# How to work?
+# How to Use?
 Respectivelly command, number 1 and number 2. Then do command with to numbers and print full answer in CLI.
 
 
