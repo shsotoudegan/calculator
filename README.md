@@ -1,4 +1,4 @@
-# clc
+# Calculator
 GUI and CLI calculators.
 
 
